@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bruno Stefoni originally from Chile 🇨🇱
-- 👀 I’m interested in Data Science, Applied Statistics, Optimization
+- 👀 I’m interested in Technology, Applied Statistics, Optimization
 - 🌱 I’m currently pursuing a Master's in Data Science
 - 📫 How to reach me: bruno.stefoni [at] nyu.edu or my [LinkedIn](https://www.linkedin.com/in/bruno-stefoni-escudero/)
 
