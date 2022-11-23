@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Bruno Stefoni originally from Chile 🇨🇱
+- 👋 Hi, I’m Bruno Stefoni
+- Profile picture is my dog called Bullet 🐶🐕
 - 📫 Contact info: bruno.stefoni [at] nyu.edu or my [LinkedIn](https://www.linkedin.com/in/bruno-stefoni-escudero/)
 
 <!---
