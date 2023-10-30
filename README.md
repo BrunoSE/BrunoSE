@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Bruno Stefoni (the 90's kid in the picture is me +20 years ago)
+- 👋 Hi, I’m Bruno Stefoni (the 90's kid in the picture is actually me some time ago, probably playing around with an MSDOS game)
