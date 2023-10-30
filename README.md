@@ -1,2 +1,1 @@
 - 👋 Hi, I’m Bruno Stefoni (the 90's kid in the picture is me +20 years ago)
-- 📫 Contact info: brunostefoni12 [at] gmail.com or my [LinkedIn](https://www.linkedin.com/in/bruno-stefoni-escudero/)
